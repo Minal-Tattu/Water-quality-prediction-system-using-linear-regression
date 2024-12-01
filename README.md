@@ -1,1 +1,3 @@
-# Water-quality-prediction-system-using-linear-regression
+# Water-quality-prediction-system-using-linear-regression 
+
+The Water Quality Prediction System uses the Linear Regression algorithm to predict key water quality indicators such as pH, turbidity, and dissolved oxygen based on environmental and chemical data. It preprocesses historical water quality data, trains a Linear Regression model, and provides predictions on future water quality. The system helps in monitoring and managing water resources effectively. By predicting water quality, it supports applications in environmental monitoring, water treatment, and public health. The project is implemented using Python and popular libraries like Scikit-learn and Pandas.
